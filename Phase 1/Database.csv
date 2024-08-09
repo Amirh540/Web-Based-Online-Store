@@ -1,0 +1,26 @@
+ID,Name,Description,Price,Quantity,Category,Company Name,Device Model,Image Url
+1,Laptop,A portable computer,"1,000.00 ",10,Computers,Dell,XPS 13,img/xps13.jpg
+2,Desktop,A computer that sits on a desk,"1,500.00 ",5,Computers,HP,Spectre x360,img/spectre x360.jpg
+3,Tablet,A portable device with a touchscreen display,500.00 ,2,Computers,Apple,iPad Pro,img/ipadpro.jfif
+4,Smartphone,A mobile phone with a touchscreen display,300.00 ,10,Computers,Samsung,Galaxy S22,img/galaxys22.jpg
+5,Smartwatch,A watch with a touchscreen display that can connect to a smartphone,200.00 ,5,Computers,Fitbit,Versa 3,img/smart watch.jfif
+6,TV,A device that displays moving images,500.00 ,3,Electronics,Samsung,The Frame,img/the frame.jpg
+7,Soundbar,A speaker system that produces sound for a TV,200.00 ,4,Electronics,Bose,Soundbar 700,img/soundbar.jpg
+8,Headphones,A device that covers the ears and produces sound,100.00 ,2,Electronics,Sony,WH-1000XM4,img/headphone.jfif
+9,Speakers,A device that produces sound,50.00 ,5,Electronics,JBL,Flip 5,img/speaker.jpg
+10,Printer,A device that prints documents,100.00 ,1,Electronics,Canon,PIXMA MG3620,img/printer.jpg
+11,Scanner,A device that scans documents,200.00 ,5,Electronics,Epson,WorkForce ES-50,img/scanner.jpg
+12,Router,A device that connects computers to the internet,100.00 ,3,Networking,TP-Link,Archer AX1800,img/router.jfif
+13,Modem,A device that connects computers to the internet,200.00 ,4,Networking,Netgear,Nighthawk AC1750,img/modem netgear.jpg
+14,Switch,A device that connects computers to each other,100.00 ,2,Networking,Cisco,SG300-10,img/switch.jpg
+15,Hub,A device that connects multiple devices to a single port,50.00 ,5,Networking,D-Link,DUB-H7,img/Hub dlink.jpg
+16,Cable,A connector that carries data,10.00 ,10,Cables,Anker,Powerline Adapter,img/cable.jpg
+17,Adapter,A device that converts one type of connector to another,20.00 ,5,Cables,Belkin,USB-C to HDMI Adapter,img/adaptor.jpg
+18,Power strip,A device that provides multiple outlets for power,10.00 ,3,Cables,Tripp Lite,12 Outlet,img/power strip.jpg
+19,Surge protector,A device that protects electronics from power surges,20.00 ,4,Cables,APC,15 Outlet,img/Surge protector.jpg
+20,Battery,A device that stores energy,10.00 ,2,Batteries,Duracell,AA,img/battery.jpg
+21,Charger,A device that charges batteries,20.00 ,5,Batteries,Anker,PowerCore 10000,img/charger.jfif
+22,Flash drive,A portable storage device,10.00 ,10,Storage,SanDisk,Cruzer Glide 32GB,img/cruzer-glide-usb30-32gb.jpg
+23,Hard drive,A storage device that is installed inside a computer,20.00 ,5,Storage,Seagate,BarraCuda 2TB,img/hard drive.jpg
+24,Solid-state drive,A storage device that is faster than a hard drive,10.00 ,3,Storage,Samsung,860 EVO 250GB,img/ssd.jfif
+25,Optical drive,A device that reads and writes optical discs,20.00 ,4,Storage,LG,BH16NS40,img/optical drive.jfif
